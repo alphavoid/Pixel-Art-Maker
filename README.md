@@ -6,6 +6,6 @@
 
 **Pixel Art Maker** _(Build a single-page web app that allows users to draw pixel art)._
 
-## Live Previw:(http://maker4.ml/)
+### Live Preview:(http://maker4.ml/)
 
 -------------------------------------------------------------------------------------------------------------------------------------
